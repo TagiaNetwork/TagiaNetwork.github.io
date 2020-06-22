@@ -1,2 +1,1 @@
-# TagiaNetwork.github.io
-Tagia Network Website
+# EntitledRC.github.io
